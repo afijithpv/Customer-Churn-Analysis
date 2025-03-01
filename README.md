@@ -17,7 +17,7 @@ To predict and reduce customer churn by analyzing key factors, implementing pred
 ---
 
 ## 📊 Power BI Dashboard Preview  
-()  
+Churn Analysis Project.pdf  
 
 ---
 
